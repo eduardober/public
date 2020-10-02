@@ -1,0 +1,338 @@
+[
+        {
+                "name" : "São Paulo, Região Metropolitana de São Paulo",
+				"key" : "11",
+				"latitude" : -23.547778,
+				"longitude" : -46.635833
+        },{
+                "name" : "São Paulo, São José dos Campos e Região",
+				"key" : "12",
+				"latitude" : -23.203416,
+				"longitude" : -45.890627,
+        },{
+                "name" : "São Paulo, Região Metropolitana da Baixada Santista",
+				"key" : "13",
+				"latitude" : -23.960833,
+				"longitude" : -46.333889
+        },{
+                "name" : "São Paulo, Bauru, Jaú, Marília, Botucatu e Região"
+				"key" : "14",
+				"latitude" : -23.55052,
+				"longitude" : -46.633309
+        },{
+                "name" : "São Paulo, Sorocaba e Região",
+				"key" : "15",
+				"latitude" : -23.497741,
+				"longitude" : -47.457983
+        },{
+                "name" : "São Paulo, Ribeirão Preto, São Carlos, Araraquara e Região",
+				"key" : "16",
+				"latitude" : -21.170401,
+				"longitude" : -47.810324
+        },{
+                "name" : "São Paulo, São José do Rio Preto e Região",
+				"key" : "17",
+				"latitude" : -20.800433,
+				"longitude" : -49.365853
+        },{
+                "name" : "São Paulo, Presidente Prudente, Araçatuba e Região",
+				"key" : "18",
+				"latitude" : -23.55052,
+				"longitude" : -46.633309
+        },{
+                "name" : "São Paulo, Região Metropolitana de Campinas",
+				"key" : "19",
+				"latitude" : -22.905833,
+				"longitude" : -47.060833
+        },{
+                "name" : "Rio de Janeiro, Campos dos Goytacazes e Região",
+				"key" : "22",
+				"latitude" : -21.735556,
+				"longitude" : -41.333019
+        },{
+                "name" : "Rio de Janeiro, Região Metropolitana do Rio de Janeiro",
+				"key" : "21",
+				"latitude" : -22.9028,
+				"longitude" : -43.2078
+        },{
+                "name" : "Rio de Janeiro, Volta Redonda, Petrópolis e Região",
+				"key" : "24",
+				"latitude" : -22.906847,
+				"longitude" : -43.172896
+        },{
+                "name" : "Espírito Santo, Região Metropolitana de Vitória",
+				"key" : "27",
+				"latitude" : -20.3189,
+				"longitude" : -40.3378
+        },{
+                "name" : "Espírito Santo, Cachoeiro de Itapemirim e Região",
+				"key" : "28",
+				"latitude" : -20.846705,
+				"longitude" : -41.12022
+        },{
+                "name" : "Minas Gerais, Região Metropolitana de Belo Horizonte",
+				"key" : "31",
+				"latitude" : -19.916667,
+				"longitude" : -43.933333
+        },{
+                "name" : "Minas Gerais, Juiz de Fora e Região",
+				"key" : "32",
+				"latitude" : -21.761044,
+				"longitude" : -43.347797
+        },{
+                "name" : "Minas Gerais, Governador Valadares e Região",
+				"key" : "33",
+				"latitude" : -18.85892,
+				"longitude" : -41.943214
+        },{
+                "name" : "Minas Gerais, Uberlândia e região",
+				"key" : "34",
+				"latitude" : -18.91953,
+				"longitude" : -48.27742
+        },{
+                "name" : "Minas Gerais, Poços de Caldas, Pouso Alegre, Varginha e Região",
+				"key" : "35",
+				"latitude" : -18.512178,
+				"longitude" : -44.555031
+        },{
+                "name" : "Minas Gerais, Divinópolis, Itaúna e Região",
+				"key" : "37",
+				"latitude" : -18.512178,
+				"longitude" : -44.555031
+        },{
+                "name" : "Minas Gerais, Montes Claros e Região",
+				"key" : "38",
+				"latitude" : -16.729319,
+				"longitude" : -43.867126
+        },{
+                "name" : "Paraná, Região Metropolitana de Curitiba",
+				"key" : "41",
+				"latitude" : -25.4297,
+				"longitude" : -49.2719
+        },{
+                "name" : "Paraná, Ponta Grossa e Região",
+				"key" : "42",
+				"latitude" : -24.949608,
+				"longitude" : -53.422725
+        },{
+                "name" : "Paraná, Londrina e Região",
+				"key" : "43",
+				"latitude" : -23.309641,
+				"longitude" : -51.148806
+        },{
+                "name" : "Paraná, Maringá e Região",
+				"key" : "44",
+				"latitude" : -23.450343,
+				"longitude" : -51.863671
+        },{
+                "name" : "Paraná, Cascavel e Região"
+				"key" : "45",
+				"latitude" : -24.953015,
+				"longitude" : -53.452892
+        },{
+                "name" : "Paraná, Francisco Beltrão, Pato Branco e Região",
+				"key" : "46",
+				"latitude" : -26.22972,
+				"longitude" : -52.671136
+        },{
+                "name" : "Santa Catarina, Joinville, Blumenau, Balneário Camboriú e Região",
+				"key" : "47",
+				"latitude" : -27.242339,
+				"longitude" : -50.218856
+        },{
+                "name" : "Santa Catarina, Região Metropolitana de Florianópolis e Criciúma",
+				"key" : "48",
+				"latitude" : -27.597022,
+				"longitude" : -48.549583
+        },{
+                "name" : "Santa Catarina, Chapecó, Lages e Região",
+				"key" : "49",
+				"latitude" : -27.242339,
+				"longitude" : -50.218856
+        },{
+                "name" : "Rio Grande do Sul, Região Metropolitana de Porto Alegre",
+				"key" : "51",
+				"latitude" : -30.034647,
+				"longitude" : -51.217658
+        },{
+                "name" : "Rio Grande do Sul, Pelotas e Região",
+				"key" : "53",
+				"latitude" : -31.767898,
+				"longitude" : -52.337498
+        },{
+                "name" : "Rio Grande do Sul, Caxias do Sul e Região",
+				"key" : "54",
+				"latitude" : -29.179124,
+				"longitude" : -51.149251
+        },{
+                "name" : "Rio Grande do Sul, Santa Maria e Região",
+				"key" : "55",
+				"latitude" : -29.691483,
+				"longitude" : -53.792261
+        },{
+                "name" : "Distrito Federal e Goiás, Brasília e Região",
+				"key" : "61",
+				"latitude" : -15.688838,
+				"longitude" : -47.817738
+        },{
+                "name" : "Goiás, Região Metropolitana de Goiânia",
+				"key" : "62",
+				"latitude" : -16.666667,
+				"longitude" : -49.25
+        },{
+                "name" : "Tocantins, Todos os municípios do estado",
+				"key" : "63",
+				"latitude" : -10.17528,
+				"longitude" : -48.298247
+        },{
+                "name" : "Goiás, Rio Verde e Região",
+				"key" : "64",
+				"latitude" : -17.789523,
+				"longitude" : -50.920427
+        },{
+                "name" : "Mato Grosso, Região Metropolitana de Cuiabá",
+				"key" : "65",
+				"latitude" : -15.601411,
+				"longitude" : -56.097892
+        },{
+                "name" : "Mato Grosso",
+				"key" : "66",
+				"latitude" : -12.681871,
+				"longitude" : -56.921099
+        },{
+                "name" : "Mato Grosso do Sul, Todos os municípios do estado",
+				"key" : "67",
+				"latitude" : -12.681871,
+				"longitude" : -56.921099
+        },{
+                "name" : "Acre, Todos os municípios do estado",
+				"key" : "68",
+				"latitude" : -9.023796,
+				"longitude" : -70.811995
+        },{
+                "name" : "Rondônia, Todos os municípios do estado",
+				"key" : "69",
+				"latitude" : -11.505734,
+				"longitude" : -63.580611
+        },{
+                "name" : "Bahia, Região Metropolitana de Salvador",
+				"key" : "71",
+				"latitude" : -12.970833,
+				"longitude" : -38.51083
+        },{
+                "name" : "Bahia, Itabuna, Ilhéus e Região",
+				"key" : "73",
+				"latitude" : -14.788033,
+				"longitude" : -39.278418
+        },{
+                "name" : "Bahia, Juazeiro e Região",
+				"key" : "74",
+				"latitude" : -9.418046,
+				"longitude" : -40.501062
+        },{
+                "name" : "Bahia, Feira de Santana e Região"
+				"key" : "75",
+				"latitude" : -12.232754,
+				"longitude" : -38.949572
+        },{
+                "name" : "Bahia, Vitória da Conquista e Região",
+				"key" : "77",
+				"latitude" : -14.861924,
+				"longitude" : -40.844535
+        },{
+                "name" : "Sergipe, Todos os municípios do estado",
+				"key" : "79",
+				"latitude" : -10.574093,
+				"longitude" : -37.385658
+        },{
+                "name" : "Pernambuco, Região Metropolitana de Recife",
+				"key" : "81",
+				"latitude" : -8.057838,
+				"longitude" : -34.882897
+        },{
+                "name" : "Alagoas, Todos os municípios do estado",
+				"key" : "82",
+				"latitude" : -9.571306,
+				"longitude" : -36.78195
+        },{
+                "name" : "Paraíba, Todos os municípios do estado",
+				"key" : "83",
+				"latitude" : -7.239961,
+				"longitude" : -36.78195
+        },{
+                "name" : "Rio Grande do Norte, Todos os municípios do estado",
+				"key" : "84",
+				"latitude" : -5.40258,
+				"longitude" : -36.954107
+        },{
+                "name" : "Ceará, Região Metropolitana de Fortaleza",
+				"key" : "85",
+				"latitude" : -3.78,
+				"longitude" : -38.59
+        },{
+                "name" : "Piauí, Região de Teresina",
+				"key" : "86",
+				"latitude" : -5.098041,
+				"longitude" : -42.758734
+        },{
+                "name" : "Pernambuco, Região de Petrolina",
+				"key" : "87",
+				"latitude" : -9.377469,
+				"longitude" : -40.535025
+        },{
+                "name" : "Ceará, Região de Juazeiro do Norte",
+				"key" : "88",
+				"latitude" : -7.229036,
+				"longitude" : -39.312446
+        },{
+                "name" : "Piauí, Região de Picos e Floriano",
+				"key" : "89",
+				"latitude" : -6.776932,
+				"longitude" : -43.022602
+        },{
+                "name" : "Pará, Região Metropolitana de Belém",
+				"key" : "91",
+				"latitude" : -1.455833,
+				"longitude" : -48.503889
+        },{
+                "name" : "Amazonas, Região de Manaus",
+				"key" : "92",
+                "latitude" : -3.079587,
+                "longitude" : -60.067331
+        },{ 
+				"name" : "Pará, Região de Santarém",
+                "key" : "93",
+                "latitude" : -2.450629,
+                "longitude" : -54.700923
+        },{
+                "name" : "Pará, Região de Marabá",
+                "key" : "94",
+                "latitude" : -5.381136,
+                "longitude" : -49.133102
+        },{
+                "name" : "Roraima, Todos os municípios do estado",
+                "key" : "95",
+                "latitude" : -2.737597,
+                "longitude" : -62.0751
+        },{
+                "name" : "Amapá, Todos os municípios do estado",
+                "key" : "96",
+                "latitude" : -2.04474,
+                "longitude" : -50.787422
+        },{
+                "name" : "Amazonas, Região de Tefé e Coari",
+                "key" : "97",
+                "latitude" : -4.09449,
+                "longitude" : -63.14461
+        },{
+                "name" : "Região Metropolitana de São Luís",
+                "key" : "98",
+                "latitude" : -2.53,
+                "longitude" : -44.302778
+        },{
+                "name": "Maranhão, Região de imperatriz",
+                "key" : "99",
+                "latitude" : -5.522392,
+                "longitude" : -47.495684
+        }
+]
